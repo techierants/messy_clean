@@ -1,0 +1,16 @@
+Product,Quantity Sold,Price per Item,Total Price,Customer ID
+Apples,10,£2.00,£20.00,101
+Bananas,15,£1.50,£22.50,102
+Cherries,12,£3.00,£36.00,103
+Apples,10,£2.00,£20.00,101
+Bananas,15,£1.50,£22.50,104
+Apples,20,£0.00,£0.00,101
+Cherries,0,£3.00,£0.00,103
+Grapes,8,£2.50,£20.00,106
+Cherries,12,£3.00,£36.00,103
+Oranges,5,£1.20,£6.00,105
+Apples,10,£2.00,£20.00,101
+Bananas,15,£1.50,£22.50,102
+Apples,5,£2.00,£10.00,101
+Grapes,8,£2.50,£20.00,106
+Bananas,15,£1.50,£22.50,102
